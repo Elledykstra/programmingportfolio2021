@@ -7,8 +7,7 @@ Final Processing Project for 2021! OOP project for interactive game. Source file
 ![SpaceGame](https://github.com/Elledykstra/programmingportfolio2021/blob/gh-pages/images/spacegame.png?raw=true)
 
 #### Timeline
-
-
+Final Processing Project for 2021! OOP project for timeline. Source file [here](https://github.com/Elledykstra/programmingportfolio2021/blob/gh-pages/src/computer_timeline.pde).
 
 
 All projects coded during 2020-21 [Elle Dykstra](mailto:elledyks@granitesd.org)
