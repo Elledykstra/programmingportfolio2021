@@ -14,4 +14,7 @@ Final Processing Project for 2021! OOP project for timeline. Source file [here](
 ### Repl.it Projects
 ##### in Python language
 
+#### Number Guessing Game
+Final Processing Project for 2021! OOP project for number guessing game. Source file [here](https://github.com/Elledykstra/programmingportfolio2021/blob/gh-pages/src/number guessing.py).
+
 All projects coded during 2020-21 [Elle Dykstra](mailto:elledyks@granitesd.org)
