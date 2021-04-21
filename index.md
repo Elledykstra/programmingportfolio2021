@@ -24,7 +24,10 @@ Final Processing Project for 2021! OOP project for MadLibs. Source file [here](h
 
 #### Classes and Methods
 Final Processing Project for 2021! OOP project for Classes and Methods. Source file [here](https://github.com/Elledykstra/programmingportfolio2021/blob/gh-pages/src/box.zip).
-![Madlibs](https://github.com/Elledykstra/programmingportfolio2021/blob/gh-pages/images/box.png?raw=true)
+![Classes and Methods](https://github.com/Elledykstra/programmingportfolio2021/blob/gh-pages/images/box.png?raw=true)
 
+#### 99Bottles
+Final Processing Project for 2021! OOP project for 99 bottles. Source file [here](https://github.com/Elledykstra/programmingportfolio2021/blob/gh-pages/src/99bottles.py).
+![99bottles](https://github.com/Elledykstra/programmingportfolio2021/blob/gh-pages/images/99bottles.png?raw=true)
 
 All projects coded during 2020-21 [Elle Dykstra](mailto:elledyks@granitesd.org)
