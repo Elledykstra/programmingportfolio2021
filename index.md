@@ -43,7 +43,9 @@ Final Processing Project for 2021! OOP project for 99 bottles. Source file [here
 ![99bottles](https://github.com/Elledykstra/programmingportfolio2021/blob/gh-pages/images/99.png?raw=true)
 
 #### Hangman
-Final Processing Project for 2021! OOP project for hangman. Github website [here](https://github.com/cindydtra/HangmanApp).
+Final Processing Project for 2021! OOP project for hangman.Group project with Cindy Tra and Miles Groussman. Github website [here](https://github.com/cindydtra/HangmanApp).
+![Hangman](https://github.com/Elledykstra/programmingportfolio2021/blob/gh-pages/images/Hangman.png?raw=true)
+
 
 
 All projects coded during 2020-21 [Elle Dykstra](mailto:elledyks@granitesd.org)
